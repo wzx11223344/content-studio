@@ -1,4 +1,6 @@
 # content-studio
+[![CI](https://github.com/wzx11223344/content-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/wzx11223344/content-studio/actions/workflows/ci.yml)
+
 
 内容创作工坊 - 10个高级算法驱动的内容创作与SEO优化工具集
 

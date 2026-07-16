@@ -1,3 +1,6 @@
 jieba
 scikit-learn
 numpy
+
+pytest>=7.0
+flake8>=6.0
